@@ -1,0 +1,17 @@
+.Title {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: papyrus, serif;
+}
+
+.links {
+    color: blue;
+    font-style: italic;
+    text-decoration: none;
+}
+
+.list {
+    list-style-type: square;
+}
+
