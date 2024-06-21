@@ -1,26 +1,66 @@
+body {
+    background-color: #000000ce;
+}
+
 * {
     font-family: Georgia, 'Times New Roman', Times, serif;
+    /* outline: 2px solid red; */
 }
-.Title {
-    background-color: black;
+#Title-main {
+    background-color: #ff5e00;
     color: white;
-    text-align: center;
-    font-family: papyrus, serif;
-    font-size: 50px;
+    font-family: serif;
+    font-size: 60px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    margin-left: 38%;
+    display: inline-block;
+    padding: 10px;
+    border: 10px solid white;
 }
 
 .links {
-    color: blue;
-    font-style: italic;
+    color: #ffffff;
     text-decoration: none;
-    font-size: 25px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-family: papyrus, serif;
+    font-weight: bold;
+    background-color: #6bff61f2;
+    padding: 10px;
+    border: 4px solid white;
 }
 
 .list {
-    list-style-type: square;
+    list-style-type: none;
+    display: inline-block;
+    margin-right: 220px;
 }
 
 p {
     color: red;
+}
+
+#opening-line {
+    font-size: 40px;
+    font-family: papyrus, serif;
+    color: #0084f7;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    background-color: white;
+    display: inline-block;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 30%;
+}
+
+#intro-para {
+    font-size: 20px;
+    color: #ffffff;
+    margin-top: 0;
+    background-color: #ff008c;
+    display: inline-block;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    margin-left: 15%;
 }
