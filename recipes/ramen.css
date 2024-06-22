@@ -1,0 +1,55 @@
+body {
+    background-color: #000000ce;
+}
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    /* outline: 2px solid red; */
+}
+
+/* Styles the heading that appears on the hamburger page "Hamburger Recipe". */
+.Title {     
+    background-color: #ff008c;
+    color: white;
+    display: inline-block;
+    padding: 0 10px 0 10px;
+    margin-left: 420px;
+    font-size: 40px;
+}
+
+/* The Burrito image is styled */
+.ramen-img {
+    height: 500px;
+    width: auto;
+    margin-left: 350px;
+    border: 10px solid #00ffffdc;
+}
+
+/* Adds styling to the home button on top of the page */
+#home-button {
+    display: block;
+    background-color: #6bff619a;
+    padding: 10px;
+    font-weight: bold;
+}
+
+/* Styles the steps for the recipe */
+.steps {
+    margin-bottom: 20px;
+}
+
+/* Styles the Ingredients for the recipe */
+.ingredients {
+    margin-bottom: 10px;
+    list-style: square;
+}
+
+/* Styles the Description of the recipe */
+.description {
+    font-size: 20px;
+    color: #00ffffdc;
+    padding: 30px;
+    margin: 0 0 0 30px;
+    border: 4px solid #00ffffdc;
+}

@@ -14,15 +14,15 @@ body {
     color: white;
     display: inline-block;
     padding: 0 10px 0 10px;
-    margin-left: 500px;
+    margin-left: 480px;
     font-size: 40px;
 }
 
-/* The hamburger image is styled */
-.ham-img {
-    height: 300px;
+/* The Burrito image is styled */
+.burrito-img {
+    height: 400px;
     width: auto;
-    margin-left: 510px;
+    margin-left: 370px;
     border: 10px solid #00ffffdc;
 }
 
